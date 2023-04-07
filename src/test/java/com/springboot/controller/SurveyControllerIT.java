@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.controller;
+package com.springboot.controller;
 
 import static org.junit.Assert.assertTrue;
 

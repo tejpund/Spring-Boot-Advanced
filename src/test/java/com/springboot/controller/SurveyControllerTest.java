@@ -1,9 +1,10 @@
-package com.in28minutes.springboot.controller;
+package com.springboot.controller;
 
 import static org.junit.Assert.assertEquals;
 
 import java.util.Arrays;
 
+import com.in28minutes.springboot.controller.SurveyController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;
